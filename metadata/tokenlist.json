@@ -1,0 +1,26 @@
+{
+  "name": "Trends N Solutions Official Token List",
+  "timestamp": "2026-11-26T15:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://tns.trendsnsolutions.com/tns_logo_256x256.png",
+  "keywords": [
+    "trends n solutions",
+    "tns",
+    "base",
+    "enterprise"
+  ],
+  "tokens": [
+    {
+      "chainId": 8453,
+      "address": "0x7841B0580ff8047063Fe8974D5A157690b8694Ad",
+      "name": "Trends N Solutions",
+      "symbol": "TNS",
+      "decimals": 18,
+      "logoURI": "https://tns.trendsnsolutions.com/tns_logo_256x256.png"
+    }
+  ]
+}

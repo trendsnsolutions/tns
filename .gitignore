@@ -1,0 +1,16 @@
+# Foundry build & cache artifacts
+out/
+cache/
+broadcast/
+
+# Environment & credentials (never commit secrets)
+.env
+.env.*
+*.key
+*.pem
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
