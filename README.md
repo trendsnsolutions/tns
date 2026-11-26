@@ -80,6 +80,7 @@ forge test -vvv
 
 ## Verification & Links
 
+* **Official X (Twitter):** [@TNS_Officials](https://x.com/TNS_Officials)
 * **BaseScan Verified Source:** [View Code](https://basescan.org/address/0x7841B0580ff8047063Fe8974D5A157690b8694Ad#code)
 * **DEXScreener Pair:** [View Pair](https://dexscreener.com/base/0x2da4d88601d8a2154f84b6ca84f76eeb1099b68e)
 * **GeckoTerminal Pool:** [View Pool](https://www.geckoterminal.com/base/pools/0x2da4d88601d8a2154f84b6ca84f76eeb1099b68e)

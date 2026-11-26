@@ -17,6 +17,9 @@
   "links": {
     "website": "https://tns.trendsnsolutions.com",
     "company": "https://trendsnsolutions.com",
+    "x": "https://x.com/TNS_Officials",
+    "twitter": "https://x.com/TNS_Officials",
+    "github": "https://github.com/trendsnsolutions/tns",
     "basescan": "https://basescan.org/token/0x7841B0580ff8047063Fe8974D5A157690b8694Ad",
     "uniswap": "https://app.uniswap.org/swap?chain=base&outputCurrency=0x7841B0580ff8047063Fe8974D5A157690b8694Ad",
     "dexscreener": "https://dexscreener.com/base/0x2da4d88601d8a2154f84b6ca84f76eeb1099b68e",
